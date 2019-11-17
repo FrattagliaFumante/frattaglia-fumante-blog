@@ -11,7 +11,6 @@ tags:
 - articolo
 keywords:
 - nuovo sito
-thumbnailImagePosition: right
 
 coverImage: /img/ricominciare-da-capo/acquerello.jpg
 
@@ -21,18 +20,17 @@ coverImage: /img/ricominciare-da-capo/acquerello.jpg
   .highlight {color: #e6005c}
 
 </style>
-
-### <p style="color:#1795d4">E così ha inizio. </p>
+### E così ha inizio.
 Il primo, ufficiale, post con il nuovo template, sul nuovo sito.\
 Sono passati ormai due anni da quando ho aperto il blog <span class="highlight">**www.frattagliafumante.com**</span> e, da allora, con alterne fortune e con alterni impegni, ho cercato di portarlo avanti.
-
+<!--more-->
 Lo ammetto, non proprio *seriamente*.
 
 Ok, io non faccio praticamente **nulla** seriamente, ma questa del blog, davvero, meno del solito.\
 **poi qualcosa è scattato...**
-<!--more-->
 
-### <p style="color:#1795d4">La storia.</p>
+
+### La storia.
 All'inizio l'idea era quella di aprire una sorta di **contenitore per vignette**. Una cosa alla **Zerocalcare** per capirci. Un *blog* a fumetti.
 
 Il problema è che disegnare **è fatica**.
@@ -49,7 +47,7 @@ Scegli il tema grafico e installi qualche **plug-in**... Qualche **decina**.
 
 Intanto il database frulla, tu attivi i pulsanti **social** (non sei molto social ma i pulsanti ci vogliono), Attivi i **commenti**
 
-##### <p style="color:#1795d4">E BAM!</p>
+##### E BAM!
 tempo **due** minuti, il primo commento!!!
 ***È Spam*** ovviamente, ma tu non lo sai ancora.
 Quindi installi un filtro anti spam.
@@ -76,13 +74,20 @@ Cos'è un **sito statico**? È un bel sito **come si facevano una volta**, con l
 
 *Ehm*... Non proprio... Bisogna imparare a scrivere con la sintassi **Markdown** in un editor di testo drammaticamente spartano, ma niente che non si possa imparare con qualche ora.
 
-### <p style="color:#1795d4">E poi cambia il mondo!!!</p>
+### E poi cambia il mondo!!!
 
 Poi **cambia davvero il mondo**. Ti ritrovi con un sito leggerissimo, che carica in un lampo e che è anche bello ed elaborato (molto *stilish* definirei il mio).
 
-Va bene, all'inizio c'è da impazzire, non ve lo nascondo, ma quando hai capito le basi, i risultati sono fantastici.
+Va bene, all'inizio c'è da impazzire, non ve lo nascondo, ma quando hai capito le basi, i risultati sono fantastici.\
+\
+\
+<div class="immagine">
+<figure class="img1 embed news">
+  <img src="https://medias.spotern.com/spots/w640/4/4088-1532336916.jpg" alt="">
+  <figcaption> Ora dai, inizia a programmare... </figcaption>
+</figure>
+</div>
 
-![Cheers](https://medias.spotern.com/spots/w640/4/4088-1532336916.jpg)
 
 In più, diciamocelo, ti senti **davvero un figo** a fare il grassetto con gli asterischi :joy:
 **HUGO** è davvero **POTENTE** e davvero **TALEBANO**.\

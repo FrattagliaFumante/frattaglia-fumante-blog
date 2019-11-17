@@ -1,6 +1,7 @@
 ---
 title: "Ringraziamenti e riferimenti"
 date: 2019-11-14T19:14:03+01:00
+type: page
 categories:
 - Blog
 - Ringraziamenti
@@ -12,7 +13,6 @@ tags:
 keywords:
 - webdesign
 thumbnailImagePosition: right
-coverImage: /img/cover.jpg
 #thumbnailImage: //example.com/image.jpg
 ---
 ## È doveroso
@@ -23,3 +23,7 @@ per la bellissima immagine che sto usando (croppata) nella sidebar
 <sup>Photo by [**Kelly Sikkema**] (https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [*Unsplash*](https://unsplash.com/)</sup>
 
 In generale invece, le immagini che uso sono prese su [Unsplash.com](https://unsplash.com/) e in quel caso, dovessi imparare a mettere le *caption* (didascalie), indicherò di volta in volta l'autore.
+
+#### Ispirazioni importanti.
+
+Prima di tutto [**Riccardo Palombo**](www.riccardo.im)
