@@ -23,16 +23,13 @@ coverCaption: "Gotta catch'em all!!! - Photo by [**Jay**] (https://unsplash.com/
 
 #thumbnailImage: //example.com/image.jpg
 ---
-### Per la serie <span class="highlight"><u>**Amarcord**.</u></span> ✏️
+### Per la serie <span class="rosso"><u>**Amarcord**.</u></span> ✏️
 È il ***10-12-2017*** e le agenzie battono una notizia esilarante:
 Ci sono ~~degli scemi~~... delle **persone distratte** che vanno a sbattere con la macchina perché giocano a **Pokemon Go**.\
 E sono tantine...\
 \
 <!--more-->
-<style type="text/css">
-  .highlight {color: #e6005c}
 
-</style>
 **C E N T O M I L A**\
 Voglio dire, mica due, centomila... tutti lì a cercar **Squirtle** e a tamponare la Panda davanti...\
 \

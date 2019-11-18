@@ -108,13 +108,13 @@
   .postShorten.postShorten--thumbnailimg-top .postShorten-thumbnailimg {
     margin-top: 5px;
   }
-  }
   .postShorten.postShorten--thumbnailimg-top .postShorten-thumbnailimg img {
     display: block;
     width: 320px;
     height: 180px;
     object-fit: cover;
     overflow: hidden;
+  }
   }
   .postShorten.postShorten--thumbnailimg-bottom .postShorten-wrap {
     display: block;
@@ -147,45 +147,32 @@
   }
 }
 /* end grid */
-.immagine {
+
+/* immagini centrate con didascalia */
+
+figure {
+  display: inline-block;
+  text-align: center;
+  font-style: italic;
+  font-size: small;
+  margin: 5px; /* adjust as needed */
+}
+figure img {
+  vertical-align: top;
+}
+figure figcaption {
+
+}
+
+.outer {
   display: block;
   text-align: center;
 }
 
-/*** Base Caption Styles ***/
-figure.embed,
-figure.embed-top,
-figure.overlay,
-figure.embed-over {
-    display: inline-block;
-    text-align: initial;
-    vertical-align: top;
-    position: relative;
-    margin: 0.5em;
-    font-size: 0.8em;
-    background: white;
-    overflow: hidden;
-}
-figure.embed img,
-figure.embed-top img,
-figure.overlay img,
-figure.embed-over img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-figure.embed figcaption,
-figure.embed-top figcaption,
-figure.overlay figcaption,
-figure.embed-over figcaption {
-    width: 100%;
-    padding: 0.5em;
-    text-align: center;
-    font-style: italic;
-    font-size: small;
-    /* neutral theme */
-}
+/* evidenziazione */
 
-figcaption {
-    display: block;
-}
+<style>
+body { background-color:white; }
+.rosso {color:#e6005c; }
+p { background-color:#FFFFFF; }
+</style>

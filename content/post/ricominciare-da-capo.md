@@ -3,7 +3,6 @@ title: "Ricominciare da zero, storia di un reset"
 coverCaption: "Questo non sono, io. Io dipingo solo dietro minaccia di morte 😂- Photo by [**Nik MacMillan**] (https://unsplash.com/@nikarthur?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [*Unsplash*](https://unsplash.com/)"
 date: 2019-11-15T11:15:47+01:00
 categories:
-- Blog
 - Pensieri sparsi
 tags:
 - webdesign
@@ -16,13 +15,10 @@ coverImage: /img/ricominciare-da-capo/acquerello.jpg
 
 #thumbnailImage: //example.com/image.jpg
 ---
-<style type="text/css">
-  .highlight {color: #e6005c}
 
-</style>
 ### E così ha inizio.
 Il primo, ufficiale, post con il nuovo template, sul nuovo sito.\
-Sono passati ormai due anni da quando ho aperto il blog <span class="highlight">**www.frattagliafumante.com**</span> e, da allora, con alterne fortune e con alterni impegni, ho cercato di portarlo avanti.
+Sono passati ormai due anni da quando ho aperto il blog <span class="rosso">**www.frattagliafumante.com**</span> e, da allora, con alterne fortune e con alterni impegni, ho cercato di portarlo avanti.
 <!--more-->
 Lo ammetto, non proprio *seriamente*.
 
@@ -36,7 +32,7 @@ All'inizio l'idea era quella di aprire una sorta di **contenitore per vignette**
 Il problema è che disegnare **è fatica**.
 Il risultato è stato che il ritmo della pubblicazione dei contenuti è stato a dir poco flemmatico e quindi anche il livello di coinvolgimento dei miei (pochi) lettori, ha avuto uno sviluppo simile.
 
-Ma torniamo indietro un attimo <span class="highlight">**all'idea**...</span>\
+Ma torniamo indietro un attimo <span class="rosso">**all'idea**...</span>\
 Devo aprire questo contenitore, ci devo mettere le vignette, non **ho assolutamente voglia** di combattere con la realizzazione del sito web, quindi prendo **Wordpress** e ~~lo lancio a casaccio~~\
 *ehm* lo imposto con cura.
 
@@ -62,7 +58,7 @@ Insomma, <u>__via un paio di scatole__</u>. E il sito **fa schifo!!!**
 
 Quando ti ritrovi con un **Blog** che in due anni ha pubblicato a malapena 50 articoli e che, nonostante questo, ha un database delle dimensioni di quello della **NASA**, due domande te le devi fare.
 
-Ed eccoci qui. Grazie a [Riccardo Palombo](http://www.riccardo.im), sono venuto a conoscenza dell'esistenza di <span class="highlight">**HUGO**</span>, un generatore di **siti statici**.
+Ed eccoci qui. Grazie a [Riccardo Palombo](http://www.riccardo.im), sono venuto a conoscenza dell'esistenza di <span class="rosso">**HUGO**</span>, un generatore di **siti statici**.
 
 Cos'è un **sito statico**? È un bel sito **come si facevano una volta**, con l'HTML, statico, senza database e creazione dinamica dei contenuti. Codice, codice codice.
 
@@ -94,11 +90,11 @@ In più, diciamocelo, ti senti **davvero un figo** a fare il grassetto con gli a
 Cioè, mi spiego. Di base non puoi nemmeno giustificare il testo.
 Lo vuoi fare? **HTML!!!** (*o meglio CSS, che tipo deprecabile che sono*).
 
-Vuoi cambiare colore <span class="highlight">**CODICE!!!**</span>
+Vuoi cambiare colore <span class="rosso">**CODICE!!!**</span>
 
-Vuoi mettere una didascalia ad una immagine? <span class="highlight">**CODICE!!!**</span>
+Vuoi mettere una didascalia ad una immagine? <span class="rosso">**CODICE!!!**</span>
 
-e <span class="highlight">**MUTO**.</span>
+e <span class="rosso">**MUTO**.</span>
 
 Ma vabbè, ci sta. Piano piano si impara tutto.
 Il vantaggio di poter avere un sito leggero, che si può tranquillamente **hostare gratuitamente** vista la scarsissima manutenzione che richiede, è **impagabile** (*e sono pure 70 euro in meno l'anno* 😆).

@@ -34,7 +34,7 @@ removePathAccents = true
 
 [author]
   name = "Marco Miroballo"
-  bio = "Professore, Fumettista, Blogger e Papà e sono ugualmente **scarso** in tutte e quattro le attività. <br> Contattami: <br> <marco.miroballo@gmail.com>"
+  bio = "Professore, Fumettista, Blogger e Papà. <br> Ugualmente **scarso** in tutte e quattro le attività. <br><br> *Contattami:* <br> <marco.miroballo@gmail.com>"
   job = "<sup>**Art Teacher***@Carlo Pepoli middle school*</sup>"
   location = "Bologna, Italy"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog

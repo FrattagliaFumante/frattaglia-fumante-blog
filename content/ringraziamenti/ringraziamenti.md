@@ -12,11 +12,11 @@ tags:
 - tranquilpeak
 keywords:
 - webdesign
-thumbnailImagePosition: right
 #thumbnailImage: //example.com/image.jpg
 ---
 ## È doveroso
-Fare dei ringraziamenti a coloro i quali hanno creato le splendide immagini che sto usando a buffo sul sito e a chi ha creato il tema che sto usando.
+Fare dei ringraziamenti a coloro i quali hanno ispirato la creazione di questo sito.
+Innanzitutto chi ha fatto le splendide immagini che sto usando a buffo e a chi ha creato il tema che sto usando.
 <!--more-->
 per la bellissima immagine che sto usando (croppata) nella sidebar
 ![](/img/cover.jpg)
@@ -24,6 +24,8 @@ per la bellissima immagine che sto usando (croppata) nella sidebar
 
 In generale invece, le immagini che uso sono prese su [Unsplash.com](https://unsplash.com/) e in quel caso, dovessi imparare a mettere le *caption* (didascalie), indicherò di volta in volta l'autore.
 
+Poi ringrazio *Thibaud Leprêtre* che ha convertito per HUGO il tema [Tranquilpeak](themes.gohugo.io/hugo-tranquilpeak-theme/) di *Louis Barranqueiro*. Inoltre un particolare ringraziamento va a [**Yamila Moreno**](https://github.com/yamila-moreno) dalla quale ho copiato i CSS 😅
+
 #### Ispirazioni importanti.
 
-Prima di tutto [**Riccardo Palombo**](www.riccardo.im)
+Prima di tutto [**Riccardo Palombo**](www.riccardo.im), che mi ha fatto conoscere [Hugo](https://gohugo.io/) e, di fatto, ha dato nuova vita ad un Blog che ormai non mi ispirava più.
