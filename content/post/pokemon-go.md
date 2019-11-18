@@ -40,7 +40,7 @@ Voglio dire, mica due, centomila... tutti lì a cercar **Squirtle** e a tamponar
 </div>
 
 \
-La cosa meritava **senzadubbiamente** una vignetta. Il caso ha voluto che sia stata la vignetta di esordio del mio sito. La ripropongo per dare il via alla rubrica **AMARCORD**, nella quale riproporrò le mie vecchie vignette!\
+La cosa meritava **senzadubbiamente** una vignetta, ed eccola qua!
 \
 <div class="immagine">
 <figure class="img1 embed news">
