@@ -1,9 +1,8 @@
 ---
 title: "Calzini"
-date: 2019-11-17T22:16:29+01:00
+date: 2018-06-25T22:16:29+01:00
 categories:
 - Webcomics
-- Amarcord
 - Fumetto
 - Il Prof Spiega
 tags:
@@ -15,9 +14,9 @@ keywords:
 - Webcomics
 thumbnailImage: /img//calzini/calzini-01.jpg
 coverImage: /img/calzini/calzini-04.jpg
-draft: true
+draft: false
 ---
-Doppia rubrica oggi!  <span class="rosso"><u>**Amarcord**.</u></span>  e <span class="rosso"><u>**Il Prof Spiega**.</u></span>\
+Al via una nuova rubrica! <span class="rosso"><u>**Il Prof Spiega**.</u></span>\
 La prima, appassionante puntata della serie a fumetti in cui il prof prova ad **indagare i misteri della vita...**
 In questa prima puntata, datata *25 giugno 2018* il prof cerca di spiegare **perché gli uomini non riescono a trovare i calzini**
 

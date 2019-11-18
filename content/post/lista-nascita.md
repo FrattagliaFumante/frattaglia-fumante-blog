@@ -1,6 +1,6 @@
 ---
 title: "Lista Nascita"
-date: 2019-11-17T22:52:17+01:00
+date: 2019-11-22T22:52:17+01:00
 categories:
 - Webcomics
 - Papà
@@ -13,13 +13,13 @@ keywords:
 - Webcomics
 thumbnailImage: /img/lista-nascita/lista-nascita-01.jpg
 coverImage: /img/lista-nascita/lista-nascita-13.jpg
-draft: true
+draft: false
 ---
 Questo è un post un po' *particolare*.\
 \
 Quando è nato mio figlio <span class="rosso">**Leonardo**</span> ho ricevuto una *"commissione"* (vi accorgerete che è una cosa che talvolta succede) da qualcuno che ha **privilegi superiori** (non faremo nomi).
 <!--more-->
-
+E quindi, in origine, questo fumettino era privato, **segretissimo**, è il momento di tirarlo fuori dal cassetto!
 Vabbè, per farla breve, quando nasce uno **gnomo** si usa fare regali. Per evitare di ricevere **ventidue copertine** si fa questa cosa chiamata **lista nascita**, della quale io ignoravo l'esistenza.\
 Una cosa tipo la **lista nozze**, della quale, altresì, ignoravo l'esistenza prima di sposarmi.\
 <span class="rosso">***"Non sarebbe carino farla a fumetti?"***</span> (*l'oscuro committente parlerà sempre con carattere <span class="rosso">rosso</span>*).\

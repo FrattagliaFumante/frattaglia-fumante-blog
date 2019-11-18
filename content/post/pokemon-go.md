@@ -1,9 +1,8 @@
 ---
 title: "Pokémon go! - La prima vignetta del sito"
-date: 2019-11-15T00:43:55+01:00
+date: 2017-12-10T00:43:55+01:00
 categories:
 - Webcomics
-- Amarcord
 - News
 tags:
 - ansa
@@ -17,7 +16,7 @@ keywords:
 - Pokemon Go
 - Webcomics
 
-draft: true
+draft: false
 coverImage: /img/pokemon-go/pokemon-go-cover.jpg
 coverCaption: "Gotta catch'em all!!! - Photo by [**Jay**] (https://unsplash.com/@filmape) on [*Unsplash*](https://unsplash.com/)"
 
