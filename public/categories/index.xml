@@ -5,27 +5,99 @@
     <link>https://frattagliafumante.com/categories/</link>
     <description>Recent content in Categories on Frattaglia Fumante Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-it</language>
-    <lastBuildDate>Fri, 15 Nov 2019 11:15:47 +0100</lastBuildDate>
+    <language>en-en</language>
+    <lastBuildDate>Mon, 18 Nov 2019 10:19:57 +0100</lastBuildDate>
     
 	<atom:link href="https://frattagliafumante.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
-      <link>https://frattagliafumante.com/categories/blog/</link>
-      <pubDate>Fri, 15 Nov 2019 11:15:47 +0100</pubDate>
+      <title>Amarcord</title>
+      <link>https://frattagliafumante.com/categories/amarcord/</link>
+      <pubDate>Mon, 18 Nov 2019 10:19:57 +0100</pubDate>
       
-      <guid>https://frattagliafumante.com/categories/blog/</guid>
+      <guid>https://frattagliafumante.com/categories/amarcord/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pensieri sparsi</title>
       <link>https://frattagliafumante.com/categories/pensieri-sparsi/</link>
-      <pubDate>Fri, 15 Nov 2019 11:15:47 +0100</pubDate>
+      <pubDate>Mon, 18 Nov 2019 10:19:57 +0100</pubDate>
       
       <guid>https://frattagliafumante.com/categories/pensieri-sparsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fumetto</title>
+      <link>https://frattagliafumante.com/categories/fumetto/</link>
+      <pubDate>Sun, 17 Nov 2019 22:52:17 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/fumetto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papà</title>
+      <link>https://frattagliafumante.com/categories/papa/</link>
+      <pubDate>Sun, 17 Nov 2019 22:52:17 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/papa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Varie</title>
+      <link>https://frattagliafumante.com/categories/varie/</link>
+      <pubDate>Sun, 17 Nov 2019 22:52:17 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/varie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webcomics</title>
+      <link>https://frattagliafumante.com/categories/webcomics/</link>
+      <pubDate>Sun, 17 Nov 2019 22:52:17 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/webcomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Il Prof Spiega</title>
+      <link>https://frattagliafumante.com/categories/il-prof-spiega/</link>
+      <pubDate>Sun, 17 Nov 2019 22:16:29 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/il-prof-spiega/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://frattagliafumante.com/categories/news/</link>
+      <pubDate>Fri, 15 Nov 2019 00:43:55 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://frattagliafumante.com/categories/blog/</link>
+      <pubDate>Thu, 14 Nov 2019 19:14:03 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ringraziamenti</title>
+      <link>https://frattagliafumante.com/categories/ringraziamenti/</link>
+      <pubDate>Thu, 14 Nov 2019 19:14:03 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/ringraziamenti/</guid>
       <description></description>
     </item>
     

@@ -3,6 +3,7 @@ title: "Ridere e poi piangere, storia di un sogno"
 date: 2019-11-18T10:19:57+01:00
 categories:
 - Pensieri Sparsi
+- Amarcord
 tags:
 - Fumetti
 - Leonardo
@@ -17,6 +18,7 @@ keywords:
 - Vignetta
 thumbnailImage: /img/ridere-piangere/rp-vignetta-mia.jpeg
 coverImage: /img/ridere-piangere/rp-vignetta-mia.jpeg
+draft: true
 ---
 
 Oggi farò una cosa che cerco di evitare il più possibile, un post *“serio”*, vi chiedo scusa fin da ora.

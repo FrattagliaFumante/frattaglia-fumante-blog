@@ -15,6 +15,7 @@ keywords:
 - Webcomics
 thumbnailImage: /img//calzini/calzini-01.jpg
 coverImage: /img/calzini/calzini-04.jpg
+draft: true
 ---
 Doppia rubrica oggi!  <span class="rosso"><u>**Amarcord**.</u></span>  e <span class="rosso"><u>**Il Prof Spiega**.</u></span>\
 La prima, appassionante puntata della serie a fumetti in cui il prof prova ad **indagare i misteri della vita...**

@@ -13,6 +13,7 @@ keywords:
 - Webcomics
 thumbnailImage: /img/lista-nascita/lista-nascita-01.jpg
 coverImage: /img/lista-nascita/lista-nascita-13.jpg
+draft: true
 ---
 Questo è un post un po' *particolare*.\
 \
