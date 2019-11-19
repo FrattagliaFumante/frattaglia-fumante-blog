@@ -1,5 +1,5 @@
 ---
-title: "Ricominciare da zero, storia di un reset"
+title: "Ricominciare da zero, cronaca di un reset"
 coverCaption: "Questo non sono, io. Io dipingo solo dietro minaccia di morte 😂- Photo by [**Nik MacMillan**] (https://unsplash.com/@nikarthur?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [*Unsplash*](https://unsplash.com/)"
 date: 2019-11-15T11:15:47+01:00
 categories:
@@ -12,7 +12,6 @@ keywords:
 - nuovo sito
 
 coverImage: /img/ricominciare-da-capo/acquerello.jpg
-
 #thumbnailImage: //example.com/image.jpg
 ---
 

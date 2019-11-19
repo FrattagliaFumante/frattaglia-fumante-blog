@@ -17,9 +17,9 @@ languageCode = "en-en"
 defaultContentLanguage = "it-it"
 title = "Frattaglia Fumante Blog"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "frattagliafumante"
 enableEmoji = true
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-111350772-1"
 paginate = 12
 canonifyurls = true
 removePathAccents = true
@@ -179,7 +179,7 @@ removePathAccents = true
   scrollPagination = true
 
   # Your favicon path, default is "/favicon.png"
-  # favicon = "/favicon.png"
+  favicon = "/favicon.png"
 
   # Header configuration
   # The link at the right of the header is customizable
