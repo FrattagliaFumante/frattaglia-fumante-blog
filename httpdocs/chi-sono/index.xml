@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chi-sonos on Frattaglia Fumante Blog</title>
+    <link>https://frattagliafumante.com/chi-sono/</link>
+    <description>Recent content in Chi-sonos on Frattaglia Fumante Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <lastBuildDate>Wed, 13 Dec 2017 19:54:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://frattagliafumante.com/chi-sono/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chi Sono...</title>
+      <link>https://frattagliafumante.com/chi-sono/chi-sono/</link>
+      <pubDate>Wed, 13 Dec 2017 19:54:21 +0000</pubDate>
+      
+      <guid>https://frattagliafumante.com/chi-sono/chi-sono/</guid>
+      <description>Oh, beh, io preferirei non mettere il curriculum vitae, ma comunque mi chiamo Marco Miroballo e di mestiere faccio l&amp;rsquo;insegnante.
+Ho sempre amato fare disegnetti e piccole vignette, scrivere e sono un appassionato di tecnologia.
+Un po&amp;rsquo; per ridere, un po&amp;rsquo; per scommessa personale, ho deciso di aprire questo sito.
+Se avete domande o semplicemente sentite il bisogno di contattarmi potete mandare una mail a:
+marco.miroballo@gmail.com
+Ricordo che, in ottemperanza agli obblighi del regolamento GDPR sul sito sono pubblicate le policy della privacy</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Frattaglia Fumante Blog</title>
+    <link>https://frattagliafumante.com/categories/</link>
+    <description>Recent content in Categories on Frattaglia Fumante Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <lastBuildDate>Fri, 15 Nov 2019 11:15:47 +0100</lastBuildDate>
+    
+	<atom:link href="https://frattagliafumante.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pensieri sparsi</title>
+      <link>https://frattagliafumante.com/categories/pensieri-sparsi/</link>
+      <pubDate>Fri, 15 Nov 2019 11:15:47 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/pensieri-sparsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://frattagliafumante.com/categories/blog/</link>
+      <pubDate>Thu, 14 Nov 2019 19:14:03 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ringraziamenti</title>
+      <link>https://frattagliafumante.com/categories/ringraziamenti/</link>
+      <pubDate>Thu, 14 Nov 2019 19:14:03 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/ringraziamenti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fumetto</title>
+      <link>https://frattagliafumante.com/categories/fumetto/</link>
+      <pubDate>Mon, 25 Jun 2018 22:16:29 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/fumetto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Il Prof Spiega</title>
+      <link>https://frattagliafumante.com/categories/il-prof-spiega/</link>
+      <pubDate>Mon, 25 Jun 2018 22:16:29 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/il-prof-spiega/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webcomics</title>
+      <link>https://frattagliafumante.com/categories/webcomics/</link>
+      <pubDate>Mon, 25 Jun 2018 22:16:29 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/webcomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://frattagliafumante.com/categories/news/</link>
+      <pubDate>Sun, 10 Dec 2017 00:43:55 +0100</pubDate>
+      
+      <guid>https://frattagliafumante.com/categories/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
