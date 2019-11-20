@@ -98,6 +98,12 @@ publishDir = "httpdocs"
     name = "Linkedin"
     pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\"></i>"
     url = "https://www.linkedin.com/in/marco-miroballo/"
+  # [[menu.links]]
+  #  weight = 4
+  #  identifier = "Personal"
+  #  name = "Sito Personale"
+  #  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-at\"></i>"
+  #  url = "http://marcomiroballo.netlify.com/"
 
 
   [[menu.misc]]
@@ -218,10 +224,10 @@ publishDir = "httpdocs"
     icon = "fa-twitter"
     url = "https://twitter.com/intent/tweet?text=%s"
 
-  [[params.sharingOptions]]
-    name = "Google+"
-    icon = "fa-google-plus"
-    url = "https://plus.google.com/share?url=%s"
+  #[[params.sharingOptions]]
+  #  name = "Google+"
+  #  icon = "fa-google-plus"
+  #  url = "https://plus.google.com/share?url=%s"
 
   [params.header.rightLink]
     class = ""
