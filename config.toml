@@ -23,7 +23,6 @@ googleAnalytics = "UA-111350772-1"
 paginate = 12
 canonifyurls = true
 removePathAccents = true
-publishDir = "httpdocs"
 
 [permalinks]
   post = "/:year/:month/:slug/"
