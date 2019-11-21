@@ -11,6 +11,7 @@ tags:
 keywords:
 - Leo Ortolani
 - Vignetta
+
 coverImage: /img/il-sogno-si-avvera/sa-vignetta.jpeg
 ---
 
