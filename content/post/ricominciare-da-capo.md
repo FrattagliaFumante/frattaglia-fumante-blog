@@ -111,4 +111,4 @@ C'è da convertire gli articoli da quella mostruosità di **Wordpress** al nostr
 Ma la cosa veramente positiva è che il **Blog è vivo ed è belliffimo** e finalmente sono motivato a riempirlo di fesserie, come è da sempre il mio stile 😎.
 
 
-<span class="rosso">test</span>
+<span class="rosso">test autodeploy</span>
