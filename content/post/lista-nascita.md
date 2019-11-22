@@ -1,6 +1,6 @@
 ---
 title: "Lista Nascita"
-date: 2019-11-22T22:52:17+01:00
+date: 2019-11-25T06:00:17+01:00
 categories:
 - Webcomics
 - Papà
