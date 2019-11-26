@@ -15,8 +15,8 @@ tags:
 keywords:
 - Leo Ortolani
 - Vignetta
-thumbnailImage: /img/ridere-piangere/rp-vignetta-mia.jpeg
-coverImage: /img/ridere-piangere/rp-vignetta-mia.jpeg
+thumbnailImage: https://res.cloudinary.com/frattaglia/image/upload/v1574764992/ridere-piangere/rp-vignetta-mia_q7xuts.jpg
+coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574764992/ridere-piangere/rp-vignetta-mia_q7xuts.jpg
 draft: false
 ---
 
@@ -30,7 +30,7 @@ A me è successo due volte nella vita, solo due, e per *colpa/merito della stess
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-leo.gif" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764981/ridere-piangere/rp-leo_lbcewn.gif" alt="leo ortolani">
   <figcaption>Leonardo Ortolani</figcaption>
 </figure>
 </div>
@@ -41,7 +41,7 @@ E qui la cosa si complica perché devo spiegare sia che cosa vuol dire questa co
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-misery-02.gif" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764980/ridere-piangere/rp-misery-02_o48iju.gif" alt="misery non deve morire 02">
   <figcaption>Il rischio è serio</figcaption>
 </figure>
 </div>
@@ -57,7 +57,7 @@ Niente sarebbe stato più come prima, nessuno ha capito da subito la portata del
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-tamara-dona.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764981/ridere-piangere/rp-tamara-dona_oltueb.jpg" alt="tamara donà">
   <figcaption>Lei lo aveva capito, ma poi ha parlato di un certo fumetto </br> diverso chiamato <a href="http://www.rat-man.org/2002/05/17/la7-maltratta-rat-man/">RIATMEN</a>. Disegnato male. Da sua sorella.</figcaption>
 </figure>
 </div>
@@ -84,7 +84,7 @@ Quella notte tutto è tremato, quella notte hai perso degli amici, quella notte 
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-dicaprio.png" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764981/ridere-piangere/rp-dicaprio_tiogba.png" alt="di caprio perplesso">
   <figcaption>Eh, sì. Decisamente meno deprimente rispetto a prima, bravo!</figcaption>
 </figure>
 </div>
@@ -93,7 +93,7 @@ Da quel giorno però sono passati mesi, siamo a dicembre, hai trovato una sistem
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-rmc-74.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764979/ridere-piangere/rp-rmc-74_lfafiq.jpg" alt="ratman 74">
   <figcaption></figcaption>
 </figure>
 </div>
@@ -117,7 +117,7 @@ Leggi in ordine sparso e, ad un certo punto, arrivi a **Ratman**. Questo qua:\
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-rmc-3.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764982/ridere-piangere/rp-rmc-3_mwgbds.jpg" alt="ratman 3">
   <figcaption></figcaption>
 </figure>
 </div>
@@ -129,7 +129,7 @@ Tutta la tristezza, tutta la rabbia, l’hai semplicemente sepolta sotto la mass
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-voila.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764981/ridere-piangere/rp-voila_mmjzi3.jpg" alt="voilà">
   <figcaption></figcaption>
 </figure>
 </div>
@@ -139,7 +139,7 @@ E a 30 anni invece questa:
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-ciuffa.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764981/ridere-piangere/rp-ciuffa_gjrhnl.jpg" alt="la ciuffa">
   <figcaption></figcaption>
 </figure>
 </div>
@@ -159,7 +159,7 @@ _Anche perché hai un figlio che si chiama Leonardo._\
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-misery-03.gif" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764994/ridere-piangere/rp-misery-03_bchfwj.gif" alt="misery non deve morire 03">
   <figcaption>Ma non c'entra nulla Ortolani con questo</figcaption>
 </figure>
 </div>
@@ -185,7 +185,7 @@ In quella arriva anche il me stesso trentenne che aggiunge:
 
 _“Ce l’avevo anche io quel sogno, anche se intuivo che non si sarebbe realizzato”._
 
-Al che, io, che ho 40 anni, mi fermo&#8230; ci penso. E dico:
+Al che, io, che ho 40 anni, mi fermo, ci penso. E dico:
 
 _“Dai ragazzi, vediamo quel che si può fare!”_
 
@@ -198,7 +198,7 @@ Nel trip mentale del me diciottenne ero diventato un fumettista per qualche rivi
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-expocartoon.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764980/ridere-piangere/rp-expocartoon_tb2loe.jpg" alt="expocartoon">
   <figcaption>Se capite di cosa parlo siete vecchi.</figcaption>
 </figure>
 </div>
@@ -224,7 +224,7 @@ Nel sogno poi ci incontriamo in uno di quei ristoranti dove vanno quelli che org
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-topolino.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764978/ridere-piangere/rp-topolino_uondh8.jpg" alt="topolino mater bi">
   <figcaption>Oh, io ci credevo veramente.</figcaption>
 </figure>
 </div>
@@ -241,7 +241,7 @@ La vignetta è già quasi pronta, almeno la mia parte, ed è qui.\
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-vignetta-mia.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764992/ridere-piangere/rp-vignetta-mia_q7xuts.jpg" alt="vignetta mia">
   <figcaption></figcaption>
 </figure>
 </div>
@@ -253,7 +253,7 @@ Lo so, la realtà è diversa dalla fantasia, forse domani non succederà nulla, 
 \
 <div class="outer">
 <figure>
-  <img src="/img/ridere-piangere/rp-misery-01.gif" "width="480"height="269" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574764980/ridere-piangere/rp-misery-01_m3xlgx.gif" "width="480"height="269" alt="misery non deve morire 01">
   <figcaption>Io piroetto peggio</figcaption>
 </figure>
 </div>

@@ -11,7 +11,7 @@ tags:
 keywords:
 - nuovo sito
 
-coverImage: /img/ricominciare-da-capo/acquerello.jpg
+coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574764966/ricominciare-da-capo/acquerello_vsfhxj.jpg
 #thumbnailImage: //example.com/image.jpg
 ---
 
@@ -78,7 +78,7 @@ Va bene, all'inizio c'è da impazzire, non ve lo nascondo, ma quando hai capito 
 \
 <div class="immagine">
 <figure class="img1 embed news">
-  <img src="https://medias.spotern.com/spots/w640/4/4088-1532336916.jpg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574785631/ricominciare-da-capo/4088-1532336916_l4ke2h.jpg" alt="di caprio">
   <figcaption> Ora dai, inizia a programmare... </figcaption>
 </figure>
 </div>

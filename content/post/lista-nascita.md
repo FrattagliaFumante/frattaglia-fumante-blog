@@ -11,8 +11,8 @@ tags:
 - Fumetto
 keywords:
 - Webcomics
-thumbnailImage: /img/lista-nascita/lista-nascita-01.jpg
-coverImage: /img/lista-nascita/lista-nascita-13.jpg
+thumbnailImage: https://res.cloudinary.com/frattaglia/image/upload/v1574762467/lista-nascita/lista-nascita-01_tphrxn.jpg
+coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574762460/lista-nascita/lista-nascita-13_rknfsa.jpg
 draft: false
 ---
 Questo è un post un po' *particolare*.\
@@ -26,16 +26,16 @@ Una cosa tipo la **lista nozze**, della quale, altresì, ignoravo l'esistenza pr
 \
 "Eh, sì, carino... **che ci vuole?**"
 ____
-![lista-nascita-01](/img/lista-nascita/lista-nascita-01.jpg)
-![lista-nascita-02](/img/lista-nascita/lista-nascita-02.jpg)
-![lista-nascita-03](/img/lista-nascita/lista-nascita-03.jpg)
-![lista-nascita-04](/img/lista-nascita/lista-nascita-04.jpg)
-![lista-nascita-05](/img/lista-nascita/lista-nascita-05.jpg)
-![lista-nascita-06](/img/lista-nascita/lista-nascita-06.jpg)
-![lista-nascita-07](/img/lista-nascita/lista-nascita-07.jpg)
-![lista-nascita-08](/img/lista-nascita/lista-nascita-08.jpg)
-![lista-nascita-09](/img/lista-nascita/lista-nascita-09.jpg)
-![lista-nascita-10](/img/lista-nascita/lista-nascita-10.jpg)
-![lista-nascita-11](/img/lista-nascita/lista-nascita-11.jpg)
-![lista-nascita-12](/img/lista-nascita/lista-nascita-12.jpg)
-![lista-nascita-13](/img/lista-nascita/lista-nascita-13.jpg)
+![lista-nascita-01](https://res.cloudinary.com/frattaglia/image/upload/v1574762467/lista-nascita/lista-nascita-01_tphrxn.jpg)
+![lista-nascita-02](https://res.cloudinary.com/frattaglia/image/upload/v1574762465/lista-nascita/lista-nascita-02_a0thmp.jpg)
+![lista-nascita-03](https://res.cloudinary.com/frattaglia/image/upload/v1574762460/lista-nascita/lista-nascita-03_rwvanc.jpg)
+![lista-nascita-04](https://res.cloudinary.com/frattaglia/image/upload/v1574762462/lista-nascita/lista-nascita-04_cket0t.jpg)
+![lista-nascita-05](https://res.cloudinary.com/frattaglia/image/upload/v1574762463/lista-nascita/lista-nascita-05_jr2a1x.jpg)
+![lista-nascita-06](https://res.cloudinary.com/frattaglia/image/upload/v1574762463/lista-nascita/lista-nascita-06_wcgnca.jpg)
+![lista-nascita-07](https://res.cloudinary.com/frattaglia/image/upload/v1574762463/lista-nascita/lista-nascita-07_wazdeh.jpg)
+![lista-nascita-08](https://res.cloudinary.com/frattaglia/image/upload/v1574762464/lista-nascita/lista-nascita-08_pjmbkl.jpg)
+![lista-nascita-09](https://res.cloudinary.com/frattaglia/image/upload/v1574762465/lista-nascita/lista-nascita-09_t34fuy.jpg)
+![lista-nascita-10](https://res.cloudinary.com/frattaglia/image/upload/v1574762461/lista-nascita/lista-nascita-10_c32qmn.jpg)
+![lista-nascita-11](https://res.cloudinary.com/frattaglia/image/upload/v1574762464/lista-nascita/lista-nascita-11_wpwyci.jpg)
+![lista-nascita-12](https://res.cloudinary.com/frattaglia/image/upload/v1574762465/lista-nascita/lista-nascita-12_dmzyum.jpg)
+![lista-nascita-13](https://res.cloudinary.com/frattaglia/image/upload/v1574762460/lista-nascita/lista-nascita-13_rknfsa.jpg)
