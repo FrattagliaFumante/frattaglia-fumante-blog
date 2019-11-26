@@ -14,8 +14,8 @@ keywords:
 - Webcomics
 - Salvini
 - Elezioni
-thumbnailImage: /img/elezioni-europee/dante-01.png
-coverImage: /img/elezioni-europee/dante-01.png
+thumbnailImage: https://res.cloudinary.com/frattaglia/image/upload/v1574762135/elezioni-europee/dante-01_hqqloz.png
+coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574762135/elezioni-europee/dante-01_hqqloz.png
 ---
 
 
@@ -26,19 +26,19 @@ Questa è la fredda cronaca a fumetti:
 \
 <div class="outer">
 <figure>
-  <img src="/img/elezioni-europee/dante-01.png" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762135/elezioni-europee/dante-01_hqqloz.png" alt="dante alighieri 01">
   <figcaption></figcaption>
 </figure>
 </div>
 <div class="outer">
 <figure>
-  <img src="/img//elezioni-europee/dante-02.png" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762133/elezioni-europee/dante-02_yduwh2.png" alt="dante alighieri 02">
   <figcaption></figcaption>
 </figure>
 </div>
 <div class="outer">
 <figure>
-  <img src="/img//elezioni-europee/dante-03.png" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762135/elezioni-europee/dante-03_cbsf3m.png" alt="dante alighieri 03">
   <figcaption></figcaption>
 </figure>
 </div>
@@ -47,7 +47,7 @@ Qualsiasi commento scritto sarebbe ridondante, quindi voglio usare un’immagine
 
 <div class="outer">
 <figure>
-  <img src="/img//elezioni-europee/porco-rosso.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762133/elezioni-europee/porco-rosso_izttqr.jpg" alt="porco rosso">
   <figcaption></figcaption>
 </figure>
 </div>

@@ -12,7 +12,7 @@ keywords:
 - Leo Ortolani
 - Vignetta
 
-coverImage: /img/il-sogno-si-avvera/sa-vignetta.jpeg
+coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574762280/il-sogno-si-avvera/sa-vignetta_minpiv.jpg
 ---
 
 E’ passata una settimana. Ma poi come è andata a finire con la vignetta di Ortolani [di cui si parlava qui?](/2019/05/ridere-e-poi-piangere-storia-di-un-sogno/)
@@ -23,7 +23,7 @@ E’ passata una settimana. Ma poi come è andata a finire con la vignetta di Or
 \
 <div class="outer">
 <figure>
-  <img src="/img/il-sogno-si-avvera/sa-instagram.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762281/il-sogno-si-avvera/sa-instagram_ibfuul.jpg" alt="instagram">
   <figcaption>il potere degli gnomi!</figcaption>
 </figure>
 </div>
@@ -32,7 +32,7 @@ Poi dice che il **Cyberbullismo** non funziona! In quel momento realizzo che la 
 \
 <div class="outer">
 <figure>
-  <img src="/img/il-sogno-si-avvera/sa-fj.gif" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762289/il-sogno-si-avvera/sa-fj_vplo44.gif" alt="si può fare">
   <figcaption>si... può... fare!!!</figcaption>
 </figure>
 </div>
@@ -43,7 +43,7 @@ Vado quindi a dormire soddisfatto pensando: “Domani dovrò portarmi il piccolo
 
 **Ore 6.30** sveglia di buon ora che il mattino ha l’oro in bocca, ma soprattutto Leonardo ha 5 dentini in bocca, quindi oplà, in piedi!
 
-C’è ottimismo nell’aria. Intanto ha smesso di piovere. Incredibilmente, il maggio più piovoso degli ultimi millordicimila anni, decide di darci tregua, proprio nel grande giorno&#8230; avverto da subito vibrazioni positive, **andrà alla stragrandissima!**
+C’è ottimismo nell’aria. Intanto ha smesso di piovere. Incredibilmente, il maggio più piovoso degli ultimi millordicimila anni, decide di darci tregua, proprio nel grande giorno! avverto da subito vibrazioni positive, **andrà alla stragrandissima!**
 
 Quindi bevo il mio caffè, mi dirigo verso scuola, dove faccio il mio dovere traviando menti di giovani bolognesi. Tutto bene anche lì. Si viaggia spediti! Tutto funziona.
 
@@ -53,7 +53,7 @@ Vedete, io non sono un pessimista, nemmeno un ottimista, ma vi dirò, neanche un
 \
 <div class="outer">
 <figure>
-  <img src="/img/il-sogno-si-avvera/sa-monet.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762278/il-sogno-si-avvera/sa-monet_sxjgmo.jpg" alt="monet">
   <figcaption>anch'io!</figcaption>
 </figure>
 </div>
@@ -80,7 +80,7 @@ Ma va tutto alla stragrandissima, **perché dopo pranzo il micro nano fa sempre 
 \
 <div class="outer">
 <figure>
-  <img src="/img/il-sogno-si-avvera/sa-aragorn.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762279/il-sogno-si-avvera/sa-aragorn_bf0nvb.jpg" alt="aragorn">
   <figcaption></figcaption>
 </figure>
 </div>
@@ -129,7 +129,7 @@ Riprendi il nano con una mano, togli il terzo pannolino, cambi il body pisciato,
 \
 <div class="outer">
 <figure>
-  <img src="/img/il-sogno-si-avvera/sa-naruto.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762279/il-sogno-si-avvera/sa-naruto_hwmtbj.jpg" alt="credici">
   <figcaption></figcaption>
 </figure>
 </div>\
@@ -174,8 +174,8 @@ Dal fondo della sala, un uomo gentile si avvicina.\
 \
 <div class="outer">
 <figure>
-  <img src="/img/il-sogno-si-avvera/sa-plazzi.jpeg" alt="">
-  <figcaption></figcaption>
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762278/il-sogno-si-avvera/sa-plazzi_q90wgj.jpg" alt="andrea plazzi">
+  <figcaption>Il mitico Andrea Plazzi!</figcaption>
 </figure>
 </div>
 
@@ -197,7 +197,7 @@ Ed eccolo nella sua magnificenza di autore consumato. Mi riconosce subito. Subit
 \
 <div class="outer">
 <figure>
-  <img src="/img/il-sogno-si-avvera/sa-ortolani.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762282/il-sogno-si-avvera/sa-ortolani_mxq9h8.jpg" alt="vignetta con ortolani">
   <figcaption>ed è bellissima!</figcaption>
 </figure>
 </div>
@@ -217,7 +217,7 @@ A) non hai la proteina di Leonardo. È a casa a festeggiare con gli altri baratt
 \
 <div class="outer">
 <figure>
-  <img src="/img/il-sogno-si-avvera/sa-condimenti.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762280/il-sogno-si-avvera/sa-condimenti_ztdmdl.jpg" alt="condimenti">
   <figcaption>tranne il burro d'arachidi. Lui... è... finito!</figcaption>
 </figure>
 </div>
@@ -255,25 +255,25 @@ Sono felice. E poco prima di addormentarmi, incontro il me stesso diciottenne. S
 \
 <div class="outer">
 <figure>
-  <img src="/img/il-sogno-si-avvera/sa-vignetta-01.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762282/il-sogno-si-avvera/sa-vignetta-01_spdv4z.jpg" alt="vignetta 01">
   <figcaption></figcaption>
 </figure>
 </div>
 <div class="outer">
 <figure>
-  <img src="/img/il-sogno-si-avvera/sa-vignetta-02.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762279/il-sogno-si-avvera/sa-vignetta-02_hwtgfv.jpg" alt="vignetta 02">
   <figcaption></figcaption>
 </figure>
 </div>
 <div class="outer">
 <figure>
-  <img src="/img/il-sogno-si-avvera/sa-vignetta-03.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762279/il-sogno-si-avvera/sa-vignetta-03_qm1hui.jpg" alt="vignetta 03">
   <figcaption></figcaption>
 </figure>
 </div>
 <div class="outer">
 <figure>
-  <img src="/img/il-sogno-si-avvera/sa-vignetta-04.jpeg" alt="">
+  <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762282/il-sogno-si-avvera/sa-vignetta-04_cmyw3x.jpg" alt="vignetta 04">
   <figcaption>Un ultimo, sentito, omaggio al mio fumettista preferito.</figcaption>
 </figure>
 </div>
