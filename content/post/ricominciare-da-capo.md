@@ -63,7 +63,7 @@ Cos'è un **sito statico**? È un bel sito **come si facevano una volta**, con l
 
 >Una noia mortale dunque e ventordici file e fogli di stile dunque?
 
-**NO**, questo è il bello. Tutta la robaccia la crea **HUGO**, noi blogger ignoranti dobbiamo solo scrivere gli articoli dopo aver scelto un tema (io ho scelto il meraviglioso [Tranquilpeak](themes.gohugo.io/hugo-tranquilpeak-theme/) di *Louis Barranqueiro*, convertito per HUGO da *Thibaud Leprêtre*).
+**NO**, questo è il bello. Tutta la robaccia la crea **HUGO**, noi blogger ignoranti dobbiamo solo scrivere gli articoli dopo aver scelto un tema (io ho scelto il meraviglioso [Tranquilpeak](https://themes.gohugo.io/hugo-tranquilpeak-theme/) di *Louis Barranqueiro*, convertito per HUGO da *Thibaud Leprêtre*).
 
 >**WOW** quindi hai un editor testuale e nessuno sbattimento? **FANTASTICO!!!**
 
