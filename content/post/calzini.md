@@ -12,8 +12,8 @@ tags:
 - Prof
 keywords:
 - Webcomics
-thumbnailImage: /img//calzini/calzini-01.jpg
-coverImage: /img/calzini/calzini-04.jpg
+thumbnailImage: https://res.cloudinary.com/frattaglia/image/upload/v1574761966/calzini/calzini-01_bhtxr8.jpg
+coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574761966/calzini/calzini-04_bbiwpi.jpg
 draft: false
 ---
 Al via una nuova rubrica! <span class="rosso"><u>**Il Prof Spiega**.</u></span>\
@@ -21,13 +21,13 @@ La prima, appassionante puntata della serie a fumetti in cui il prof prova ad **
 In questa prima puntata, datata *25 giugno 2018* il prof cerca di spiegare **perché gli uomini non riescono a trovare i calzini**
 
 <!--more-->
-![calzini-01](/img/calzini/calzini-01.jpg)
-![calzini-02](/img/calzini/calzini-02.jpg)
-![calzini-03](/img/calzini/calzini-03.jpg)
-![calzini-04](/img/calzini/calzini-04.jpg)
-![calzini-05](/img/calzini/calzini-05.jpg)
-![calzini-06](/img/calzini/calzini-06.jpg)
-![calzini-07](/img/calzini/calzini-07.jpg)
-![calzini-08](/img/calzini/calzini-08.jpg)
-![calzini-09](/img/calzini/calzini-09.jpg)
-![calzini-10](/img/calzini/calzini-10.jpg)
+![calzini-01](https://res.cloudinary.com/frattaglia/image/upload/v1574761966/calzini/calzini-01_bhtxr8.jpg)
+![calzini-02](https://res.cloudinary.com/frattaglia/image/upload/v1574761966/calzini/calzini-02_nhs9zf.jpg)
+![calzini-03](https://res.cloudinary.com/frattaglia/image/upload/v1574761967/calzini/calzini-03_vxjcbr.jpg)
+![calzini-04](https://res.cloudinary.com/frattaglia/image/upload/v1574761966/calzini/calzini-04_bbiwpi.jpg)
+![calzini-05](https://res.cloudinary.com/frattaglia/image/upload/v1574761967/calzini/calzini-05_elltr1.jpg)
+![calzini-06](https://res.cloudinary.com/frattaglia/image/upload/v1574761965/calzini/calzini-06_v8xh3f.jpg)
+![calzini-07](https://res.cloudinary.com/frattaglia/image/upload/v1574761965/calzini/calzini-07_ehm1if.jpg)
+![calzini-08](https://res.cloudinary.com/frattaglia/image/upload/v1574761965/calzini/calzini-08_juc0vb.jpg)
+![calzini-09](https://res.cloudinary.com/frattaglia/image/upload/v1574761967/calzini/calzini-09_zljos1.jpg)
+![calzini-10](https://res.cloudinary.com/frattaglia/image/upload/v1574761967/calzini/calzini-10_xliiwz.jpg)

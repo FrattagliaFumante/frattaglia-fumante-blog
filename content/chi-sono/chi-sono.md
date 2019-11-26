@@ -5,7 +5,7 @@ type: page
 date: 2017-12-13T19:54:21+00:00
 
 ---
-![me](/img/chi-sono/chi-sono.jpg)
+![me](https://res.cloudinary.com/frattaglia/image/upload/v1574762111/chi-sono/chi-sono_y8wnao.jpg)
 
 Oh, beh, io preferirei non mettere il *curriculum vitae*, ma comunque mi chiamo **Marco Miroballo** e di mestiere faccio l'insegnante.\
 Ho sempre amato fare disegnetti e piccole vignette, scrivere e sono un appassionato di tecnologia.\

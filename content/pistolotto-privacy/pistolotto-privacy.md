@@ -156,6 +156,4 @@ I lettori potranno verificare il proprio indirizzo email e potranno cancellarsi 
 
 thanks to:
 
-Ringraziamo [Alessandro “Doc Manhattan” Apreda][1] e [www.ideepercomputeredinternet.com][2] Per il testo
-[1]: https://docmanhattan.blogspot.com/
-[2]: http://www.ideepercomputeredinternet.com/2014/09/cookie-consenso-privacy-banner-blogger-wordpress.html
+Ringraziamo [Alessandro “Doc Manhattan” Apreda](https://docmanhattan.blogspot.com/) e [www.ideepercomputeredinternet.com](http://www.ideepercomputeredinternet.com/2014/09/cookie-consenso-privacy-banner-blogger-wordpress.html) Per il testo
