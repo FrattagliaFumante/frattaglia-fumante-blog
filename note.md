@@ -2,7 +2,7 @@ non mi ricordo mai come inserire le immagini.
 il codice è questo:
 <div class="outer">
 <figure>
-  <img src="/img/" alt="">
+  <img src="" alt="">
   <figcaption></figcaption>
 </figure>
 </div>
