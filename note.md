@@ -38,3 +38,5 @@ figure figcaption {
   display: block;
   text-align: center;
 }
+
+allora, per aggiungere il tema pasrsa devo fare delle modifiche al config e al front matter dei post.

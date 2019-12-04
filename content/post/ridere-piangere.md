@@ -15,6 +15,7 @@ tags:
 keywords:
 - Leo Ortolani
 - Vignetta
+#image: "https://res.cloudinary.com/frattaglia/image/upload/v1574764992/ridere-piangere/rp-vignetta-mia_q7xuts.jpg"
 thumbnailImage: https://res.cloudinary.com/frattaglia/image/upload/v1574764992/ridere-piangere/rp-vignetta-mia_q7xuts.jpg
 coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574764992/ridere-piangere/rp-vignetta-mia_q7xuts.jpg
 draft: false

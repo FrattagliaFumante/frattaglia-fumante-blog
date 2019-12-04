@@ -1,6 +1,5 @@
 ---
 title: "Ricominciare da zero, cronaca di un reset"
-coverCaption: "Questo non sono, io. Io dipingo solo dietro minaccia di morte 😂- Photo by [**Nik MacMillan**] (https://unsplash.com/@nikarthur?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [*Unsplash*](https://unsplash.com/)"
 date: 2019-11-15T11:15:47+01:00
 categories:
 - Pensieri sparsi
@@ -10,8 +9,9 @@ tags:
 - articolo
 keywords:
 - nuovo sito
-
+#image: "https://res.cloudinary.com/frattaglia/image/upload/v1574764966/ricominciare-da-capo/acquerello_vsfhxj.jpg"
 coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574764966/ricominciare-da-capo/acquerello_vsfhxj.jpg
+coverCaption: "Questo non sono, io. Io dipingo solo dietro minaccia di morte 😂- Photo by [**Nik MacMillan**] (https://unsplash.com/@nikarthur?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [*Unsplash*](https://unsplash.com/)"
 #thumbnailImage: //example.com/image.jpg
 ---
 

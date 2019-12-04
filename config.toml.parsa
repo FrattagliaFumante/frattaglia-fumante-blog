@@ -1,0 +1,129 @@
+baseURL = "https://frattagliafumante.com/"
+languageCode = "it-it"
+title = "Frattaglia Fumante Blog"
+theme = "parsa-hugo"
+summaryLength = "10"
+paginate = 9
+
+[outputs]
+  home = ["HTML", "AMP", "RSS", "JSON"]
+  page = ["HTML"]
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/headroom/headroom.js"
+  [[params.plugins.js]]
+  URL = "plugins/instafeed/instafeed.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/masonry/masonry.js"
+  [[params.plugins.js]]
+  URL = "plugins/reading-time/readingTime.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/smooth-scroll/smooth-scroll.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+
+
+
+# navigation
+[menu]
+
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 2
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 3
+
+
+[params]
+logo = "/img/logo2.png"
+home = "Home"
+# hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
+homeLayoutToggle = true
+# Meta data
+description = "Il blog personale di Marco Miroballo, alias Frattaglia Fumante"
+# about author
+author = "Marco Miroballo"
+authorImage = "https://res.cloudinary.com/frattaglia/image/upload/v1575468562/me_arbo6m.jpg"
+shortDescription = "Professore, Fumettista, Blogger e Papà. <br> Ugualmente **scarso** in tutte e quattro le attività. <br><br> *Contattami:* <br> <marco.miroballo@gmail.com>"
+# Contact Form Action
+contactFormAction = "#"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# copyright
+copyright = "a theme by [themefisher.com](themefisher.com)"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+
+  # search
+  [params.search]
+  enable = true
+
+  # Instagram feed
+  [params.instafeed]
+  enable = true
+  userID = "243750761"
+  accessToken = "243750761.1677ed0.6d04eee768034dab9e61b0df0eb03f7e"
+
+  # footer
+  [params.footer]
+
+    #address
+    [[params.footer.addresses]]
+    address = "Bologna"
+
+    [[params.footer.addresses]]
+    address = ""
+
+
+    #contact information
+    [[params.footer.contacts]]
+    contactInfo = ""
+
+    [[params.footer.contacts]]
+    contactInfo = "Mail: Marco.miroballo@gmail.com"
+
+
+  # social site
+  [[params.social]]
+  icon = "ti-facebook"
+  URL = "https://www.facebook.com/frattagliafumante/"
+
+  [[params.social]]
+  icon = "ti-twitter-alt"
+  URL = "https://twitter.com/frattaglia_miro"
+
+  [[params.social]]
+  icon = "ti-linkedin"
+  URL = "https://www.linkedin.com/in/marco-miroballo/"
+
+  #[[params.social]]
+  #icon = "ti-github"
+  #URL = "#"
