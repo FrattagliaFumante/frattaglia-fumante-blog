@@ -19,4 +19,4 @@ Se avete domande o semplicemente sentite il bisogno di contattarmi potete mandar
 \
 \
 ____
-Ricordo che, in ottemperanza agli obblighi del **regolamento GDPR** sul sito sono pubblicate le [policy della privacy](/pistolotto-privacy/pistolotto-privacy/)
+Ricordo che, in ottemperanza agli obblighi del **regolamento GDPR** sul sito sono pubblicate le [policy della privacy](/pistolotto-privacy/)
