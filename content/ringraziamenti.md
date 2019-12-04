@@ -27,4 +27,4 @@ Poi ringrazio *Thibaud Leprêtre* che ha convertito per HUGO il tema [Tranquilpe
 
 #### Ispirazioni importanti.
 
-Prima di tutto [**Riccardo Palombo**](https://www.riccardo.im), che mi ha fatto conoscere [Hugo](https://gohugo.io/) e, di fatto, ha dato nuova vita ad un Blog che ormai non mi ispirava più.
+Prima di tutto [**Riccardo Palombo**](https://www.riccardo.im), che mi ha fatto conoscere [Hugo](https://gohugo.io/) e, di fatto, ha dato nuova vita ad un Blog che ormai non mi ispirava più

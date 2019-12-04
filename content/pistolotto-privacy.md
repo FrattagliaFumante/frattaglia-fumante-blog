@@ -67,7 +67,7 @@ Questo sito **non ha cookie propri**, ma cookie di terze parti, come quelli dei 
 
 Questo sito utilizza Google Analytics e i suoi cookie che sono considerati tecnici se utilizzati solo a fini di ottimizzazione e se gli IP degli utenti sono mantenuti anonimi. Ricordiamo che i dati vengono usati solo per avere i dati delle pagine più visitate, del numero di visitatori, i dati aggregati delle visite per sistema operativo, per browser, ecc. Gli IP di Google Analytics sono stati anonimizzati.  Questi parametri vengono archiviati nei server di Google che ne disciplina la Privacy secondo le [Linee guida](https://policies.google.com/privacy/update?hl=it) degli altri servizi.
 
-Nella proprietà di GA relativa a questo sito è stata impostata una durata di 14 mesi per il mantenimento della archiviazione dei dati, che comunque sono stati anonimizzati e aggregati ai soli fini statistici. Google Analytics può essere disattivata con un [componente aggiuntivo](https://tools.google.com/dlpage/gaoptout?hl=it) disponibile per Internet Explorer, Google Chrome, Mozilla Firefox, Apple Safari e Opera. Viene disattivato lo script che rileva le visite.
+Nella proprietà di GA relativa a questo sito è stata impostata una durata di 14 mesi per il mantenimento della archiviazione dei dati, che comunque sono stati anonimizzati e aggregati ai soli fini statistici. Google Analytics può essere disattivata con un [componente aggiuntivo](https://tools.google.com/dlpage/gaoptout?hl=it) disponibile per Internet Explorer, Google Chrome, Mozilla Firefox, Apple Safari e Opera. Viene disattivato lo script che rileva le visite
 
 
 ### <a name="cancellazione"></a>CANCELLAZIONE DEI COOKIE
