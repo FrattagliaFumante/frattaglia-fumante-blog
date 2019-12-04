@@ -77,7 +77,7 @@ removePathAccents = true
   identifier = "chi-sono"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/chi-sono/chi-sono"
+  url = "/chi-sono"
 
   [[menu.links]]
     weight = 1
@@ -110,7 +110,7 @@ removePathAccents = true
     identifier = "Ringraziamenti"
     name = "credits"
     pre = "<i class=\"sidebar-button-icon fa fa-lg fa-heart\"></i>"
-    url = "/ringraziamenti/ringraziamenti"
+    url = "/ringraziamenti"
   [[menu.misc]]
     weight = 1
     identifier = "rss"
