@@ -23,3 +23,5 @@ fields:
 - type: textarea
   name: coverCaption
   label: coverCaption
+pages:
+- content/post/e-siamo-di-nuovo-qua.md
