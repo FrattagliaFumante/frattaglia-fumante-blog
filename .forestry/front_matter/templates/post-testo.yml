@@ -1,0 +1,27 @@
+---
+label: Post testo
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: keywords
+  label: keywords
+- type: file
+  name: coverImage
+  label: coverImage
+- type: textarea
+  name: coverCaption
+  label: coverCaption
+pages:
+- content/post/e-siamo-di-nuovo-qua.md
