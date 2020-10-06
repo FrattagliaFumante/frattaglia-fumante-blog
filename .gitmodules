@@ -1,6 +1,3 @@
 [submodule "themes/hugo-tranquilpeak-theme"]
 	path = themes/hugo-tranquilpeak-theme
 	url = https://github.com/FrattagliaFumante/hugo-tranquilpeak-theme.git
-[submodule "themes/parsa-hugo"]
-	path = themes/parsa-hugo
-	url = https://github.com/FrattagliaFumante/parsa-hugo
