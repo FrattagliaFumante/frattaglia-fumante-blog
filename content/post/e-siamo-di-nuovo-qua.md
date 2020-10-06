@@ -1,5 +1,5 @@
 +++
-categories = ["Pensieri sparsi"]
+categories = ["Pensieri Sparsi"]
 coverCaption = "<span>Photo by <a href=\"https://unsplash.com/@nickmorrison?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Nick Morrison</a> on <a href=\"https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Unsplash</a></span>"
 coverImage = "/v1601992345/nick-morrison-FHnnjk1Yj7Y-unsplash_fovgyx.jpg"
 date = 2020-10-06T14:00:00Z
