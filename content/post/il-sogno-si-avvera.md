@@ -21,7 +21,6 @@ E’ passata una settimana. Ma poi come è andata a finire con la vignetta di Or
 È ormai quasi la mezzanotte, Il maestro Ortolani, dopo essere stato a più riprese importunato su Instagram, **acconsente a realizzare la vignetta!!!**
 
 <!--more-->
-\
 <div class="outer">
 <figure>
   <img src="https://res.cloudinary.com/frattaglia/image/upload/v1574762281/il-sogno-si-avvera/sa-instagram_ibfuul.jpg" alt="instagram">

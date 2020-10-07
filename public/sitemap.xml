@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.frattagliafumante.com/post/</loc>
+    <lastmod>2019-12-02T13:57:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.frattagliafumante.com/categories/</loc>
     <lastmod>2019-12-02T13:57:34+01:00</lastmod>
   </url>
@@ -24,11 +30,6 @@
   
   <url>
     <loc>https://www.frattagliafumante.com/categories/pensieri-sparsi/</loc>
-    <lastmod>2019-12-02T13:57:34+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.frattagliafumante.com/post/</loc>
     <lastmod>2019-12-02T13:57:34+01:00</lastmod>
   </url>
   
