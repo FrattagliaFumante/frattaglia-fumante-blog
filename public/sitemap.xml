@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.frattagliafumante.com/</loc>
+    <loc>https://www.frattagliafumante.com/post/</loc>
     <lastmod>2019-12-02T13:57:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.frattagliafumante.com/categories/</loc>
+    <lastmod>2019-12-02T13:57:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frattagliafumante.com/</loc>
     <lastmod>2019-12-02T13:57:34+01:00</lastmod>
   </url>
   
@@ -29,7 +34,7 @@
   </url>
   
   <url>
-    <loc>https://www.frattagliafumante.com/macgyver/</loc>
+    <loc>https://www.frattagliafumante.com/post/macgyver/</loc>
     <lastmod>2019-12-02T13:57:34+01:00</lastmod>
   </url>
   
@@ -54,7 +59,7 @@
   </url>
   
   <url>
-    <loc>https://www.frattagliafumante.com/lista-nascita/</loc>
+    <loc>https://www.frattagliafumante.com/post/lista-nascita/</loc>
     <lastmod>2019-11-25T06:00:17+01:00</lastmod>
   </url>
   
@@ -84,7 +89,7 @@
   </url>
   
   <url>
-    <loc>https://www.frattagliafumante.com/ricominciare-da-capo/</loc>
+    <loc>https://www.frattagliafumante.com/post/ricominciare-da-capo/</loc>
     <lastmod>2019-11-15T11:15:47+01:00</lastmod>
   </url>
   
@@ -129,7 +134,7 @@
   </url>
   
   <url>
-    <loc>https://www.frattagliafumante.com/il-sogno-si-avvera/</loc>
+    <loc>https://www.frattagliafumante.com/post/il-sogno-si-avvera/</loc>
     <lastmod>2019-06-05T14:33:00+01:00</lastmod>
   </url>
   
@@ -164,7 +169,7 @@
   </url>
   
   <url>
-    <loc>https://www.frattagliafumante.com/ridere-piangere/</loc>
+    <loc>https://www.frattagliafumante.com/post/ridere-piangere/</loc>
     <lastmod>2019-05-29T10:19:57+01:00</lastmod>
   </url>
   
@@ -189,7 +194,7 @@
   </url>
   
   <url>
-    <loc>https://www.frattagliafumante.com/elezioni-europee/</loc>
+    <loc>https://www.frattagliafumante.com/post/elezioni-europee/</loc>
     <lastmod>2019-05-27T16:11:51+01:00</lastmod>
   </url>
   
@@ -219,7 +224,7 @@
   </url>
   
   <url>
-    <loc>https://www.frattagliafumante.com/calzini/</loc>
+    <loc>https://www.frattagliafumante.com/post/calzini/</loc>
     <lastmod>2018-06-25T22:16:29+01:00</lastmod>
   </url>
   
@@ -279,7 +284,7 @@
   </url>
   
   <url>
-    <loc>https://www.frattagliafumante.com/pokemon-go/</loc>
+    <loc>https://www.frattagliafumante.com/post/pokemon-go/</loc>
     <lastmod>2017-12-10T00:43:55+01:00</lastmod>
   </url>
   
