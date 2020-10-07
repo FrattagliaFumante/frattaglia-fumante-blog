@@ -1,6 +1,6 @@
 ---
-title: "Superare le avversità come Macgyver"
-date: 2019-12-02T13:57:34+01:00
+title: Superare le avversità come Macgyver
+date: 2019-12-02T13:57:34.000+01:00
 categories:
 - Pensieri Sparsi
 tags:
@@ -8,12 +8,13 @@ tags:
 - Imprecazioni
 keywords:
 - MacGyver
-image: "https://res.cloudinary.com/frattaglia/image/upload/v1575043262/macgyver/mg-urlo.jpg"
+image: https://res.cloudinary.com/frattaglia/image/upload/v1575043262/macgyver/mg-urlo.jpg
 thumbnailImage: https://res.cloudinary.com/frattaglia/image/upload/v1575043262/macgyver/mg-urlo.jpg
 coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1575043262/macgyver/mg-urlo.jpg
-coverCaption: "Mapporcoilmaledettoconnettoredistocavolo! - Photo by [**Jason Hafso**] (https://unsplash.com/@jasonhafso) on [*Unsplash*](https://unsplash.com/)"
-type: "post"
-#thumbnailImage: //example.com/image.jpg
+coverCaption: Mapporcoilmaledettoconnettoredistocavolo! - Photo by [**Jason Hafso**]
+  (https://unsplash.com/@jasonhafso) on [*Unsplash*](https://unsplash.com/)
+type: featured
+
 ---
 _La giornata è partita bene._\
 \
