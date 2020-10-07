@@ -18,7 +18,7 @@ coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574761966/calzi
 type: "post"
 draft: false
 ---
-Al via una nuova rubrica! <span class="rosso"><u>**Il Prof Spiega**.</u></span>\
+Al via una nuova rubrica! **Il Prof Spiega**.
 La prima, appassionante puntata della serie a fumetti in cui il prof prova ad **indagare i misteri della vita...**
 In questa prima puntata, datata *25 giugno 2018* il prof cerca di spiegare **perché gli uomini non riescono a trovare i calzini**
 
