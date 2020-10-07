@@ -40,7 +40,7 @@ enable = true
 expire_days = 2
 [params.instafeed]
 access_token = "e8a758ffc05e49a73c0ba3b314d4fd7c"
-enable = true
+enable = false
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
