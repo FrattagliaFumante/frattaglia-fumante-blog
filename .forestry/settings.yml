@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: frattaglia-fumante-blog/content
+  path: content
   label: Post
   create: documents
   match: "*"
