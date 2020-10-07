@@ -12,17 +12,17 @@ sections:
   templates:
   - post
 - type: directory
-  path: frattaglia-fumante-blog/content/about
+  path: content/about
   label: About
   create: none
   match: "*"
 - type: directory
-  path: frattaglia-fumante-blog/content/contact
+  path: content/contact
   label: Contact
   create: none
   match: "*"
 - type: directory
-  path: exampleSite
+  path: ''
   label: Configuration
   create: all
   match: "*.toml"
