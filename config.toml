@@ -49,15 +49,15 @@ url = ""
 weight = 1
 hasChildren = true
 
-  [[menu.main]]
-  parent = "Homepage"
-  name = "Homepage 1"
-  url = "homepage/home-1"
+  #[[menu.main]]
+  #parent = "Homepage"
+#  name = "Homepage 1"
+  #url = "homepage/home-1"
 
-  [[menu.main]]
-  parent = "Homepage"
-  name = "Homepage 2"
-  url = "homepage/home-2"
+  #[[menu.main]]
+  #parent = "Homepage"
+  #name = "Homepage 2"
+  #url = "homepage/home-2"
 
 [[menu.main]]
 name = "Chi sono"
