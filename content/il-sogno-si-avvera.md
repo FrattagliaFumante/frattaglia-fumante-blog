@@ -11,8 +11,9 @@ tags:
 keywords:
 - Leo Ortolani
 - Vignetta
-#image: "https://res.cloudinary.com/frattaglia/image/upload/v1574762280/il-sogno-si-avvera/sa-vignetta_minpiv.jpg"
+image: "https://res.cloudinary.com/frattaglia/image/upload/v1574762280/il-sogno-si-avvera/sa-vignetta_minpiv.jpg"
 coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574762280/il-sogno-si-avvera/sa-vignetta_minpiv.jpg
+type: "post"
 ---
 
 E’ passata una settimana. Ma poi come è andata a finire con la vignetta di Ortolani [di cui si parlava qui?](/2019/05/ridere-e-poi-piangere-storia-di-un-sogno/)

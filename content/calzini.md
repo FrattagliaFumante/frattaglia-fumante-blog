@@ -12,9 +12,10 @@ tags:
 - Prof
 keywords:
 - Webcomics
-#image: "https://res.cloudinary.com/frattaglia/image/upload/v1574761966/calzini/calzini-01_bhtxr8.jpg"
+image: "https://res.cloudinary.com/frattaglia/image/upload/v1574761966/calzini/calzini-01_bhtxr8.jpg"
 thumbnailImage: https://res.cloudinary.com/frattaglia/image/upload/v1574761966/calzini/calzini-01_bhtxr8.jpg
 coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574761966/calzini/calzini-04_bbiwpi.jpg
+type: "post"
 draft: false
 ---
 Al via una nuova rubrica! <span class="rosso"><u>**Il Prof Spiega**.</u></span>\

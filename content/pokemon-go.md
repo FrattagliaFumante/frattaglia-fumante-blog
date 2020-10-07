@@ -17,10 +17,10 @@ keywords:
 - Webcomics
 
 draft: false
-#image: "https://res.cloudinary.com/frattaglia/image/upload/v1574764255/pokemon-go/pokemon-go-cover_gnqyoq.jpg"
+image: "https://res.cloudinary.com/frattaglia/image/upload/v1574764255/pokemon-go/pokemon-go-cover_gnqyoq.jpg"
 coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574764255/pokemon-go/pokemon-go-cover_gnqyoq.jpg
 coverCaption: "Gotta catch'em all!!! - Photo by [**Jay**] (https://unsplash.com/@filmape) on [*Unsplash*](https://unsplash.com/)"
-
+type: "post"
 #thumbnailImage: //example.com/image.jpg
 ---
 ### Per la serie <span class="rosso"><u>**Amarcord**.</u></span> ✏️
