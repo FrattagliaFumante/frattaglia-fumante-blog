@@ -20,15 +20,6 @@ fields:
 - type: file
   name: image
   label: image
-- type: file
-  name: thumbnailImage
-  label: thumbnailImage
-- type: file
-  name: coverImage
-  label: coverImage
-- type: textarea
-  name: coverCaption
-  label: coverCaption
 - type: text
   name: type
   label: type
