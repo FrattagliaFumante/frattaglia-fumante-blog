@@ -74,7 +74,7 @@ weight = 3
 logo = "https://res.cloudinary.com/frattaglia/image/upload/v1602004818/logo_k3t4om.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
-layout = "2"
+layout = "1"
 # Meta data
 description = "This is meta description"
 # Preloader
