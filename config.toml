@@ -20,26 +20,26 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
+address = "Via Leandro Alberti 68/2"
 author = "Marco Miroballo"
 author_image = "https://res.cloudinary.com/frattaglia/image/upload/v1575471496/me2_gdicqw.jpg"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "Prof, disegnatore e padre"
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
-description = "This is meta description"
-email = "exmaple@ymail.com"
+description = "Il blog di Marco Miroballo alias Frattaglia Fumante"
+email = "marco.miroballo@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-layout = "2"
+layout = "1"
 logo = "https://res.cloudinary.com/frattaglia/image/upload/v1602004818/logo_k3t4om.png"
-mobile = "+90 000 333 22"
+mobile = ""
 preloader = true
 search = true
 [params.cookies]
 enable = true
 expire_days = 2
 [params.instafeed]
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+access_token = "e8a758ffc05e49a73c0ba3b314d4fd7c"
 enable = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
