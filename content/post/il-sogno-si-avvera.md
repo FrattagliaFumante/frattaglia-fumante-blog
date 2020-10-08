@@ -11,8 +11,8 @@ tags:
 keywords:
 - Leo Ortolani
 - Vignetta
-image: "https://res.cloudinary.com/frattaglia/image/upload/v1574762280/il-sogno-si-avvera/sa-vignetta_minpiv.jpg"
-#coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574762280/il-sogno-si-avvera/sa-vignetta_minpiv.jpg
+#image: "https://res.cloudinary.com/frattaglia/image/upload/v1574762280/il-sogno-si-avvera/sa-vignetta_minpiv.jpg"
+coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574762280/il-sogno-si-avvera/sa-vignetta_minpiv.jpg
 type: "post"
 ---
 

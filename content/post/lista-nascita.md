@@ -11,7 +11,7 @@ tags:
 - Fumetto
 keywords:
 - Webcomics
-image: "https://res.cloudinary.com/frattaglia/image/upload/v1574762467/lista-nascita/lista-nascita-01_tphrxn.jpg"
+#image: "https://res.cloudinary.com/frattaglia/image/upload/v1574762467/lista-nascita/lista-nascita-01_tphrxn.jpg"
 thumbnailImage: https://res.cloudinary.com/frattaglia/image/upload/v1574762467/lista-nascita/lista-nascita-01_tphrxn.jpg
 coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574762460/lista-nascita/lista-nascita-13_rknfsa.jpg
 type: "post"

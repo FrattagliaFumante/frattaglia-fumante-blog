@@ -14,7 +14,7 @@ keywords:
 - Webcomics
 - Salvini
 - Elezioni
-image: "https://res.cloudinary.com/frattaglia/image/upload/v1574762135/elezioni-europee/dante-01_hqqloz.png"
+#image: "https://res.cloudinary.com/frattaglia/image/upload/v1574762135/elezioni-europee/dante-01_hqqloz.png"
 thumbnailImage: https://res.cloudinary.com/frattaglia/image/upload/v1574762135/elezioni-europee/dante-01_hqqloz.png
 coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1574762135/elezioni-europee/dante-01_hqqloz.png
 type: "post"

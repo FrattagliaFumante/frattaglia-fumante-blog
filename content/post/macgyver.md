@@ -8,7 +8,7 @@ tags:
 - Imprecazioni
 keywords:
 - MacGyver
-image: https://res.cloudinary.com/frattaglia/image/upload/v1575043262/macgyver/mg-urlo.jpg
+#image: https://res.cloudinary.com/frattaglia/image/upload/v1575043262/macgyver/mg-urlo.jpg
 thumbnailImage: https://res.cloudinary.com/frattaglia/image/upload/v1575043262/macgyver/mg-urlo.jpg
 coverImage: https://res.cloudinary.com/frattaglia/image/upload/v1575043262/macgyver/mg-urlo.jpg
 coverCaption: Mapporcoilmaledettoconnettoredistocavolo! - Photo by [**Jason Hafso**]
