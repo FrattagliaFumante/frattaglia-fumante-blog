@@ -1,0 +1,83 @@
+baseurl = "https://www.frattagliafumante.com"
+languageCode = "it-it"
+paginate = 6
+summaryLength = "10"
+theme = "parsa-hugo"
+title = "Frattaglia Fumante Blog"
+[[menu.main]]
+hasChildren = true
+name = "Homepage"
+url = ""
+weight = 1
+[[menu.main]]
+name = "Chi sono"
+url = "chi-sono"
+weight = 2
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 3
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+[params]
+address = "Via Leandro Alberti 68/2"
+author = "Marco Miroballo"
+author_image = "https://res.cloudinary.com/frattaglia/image/upload/v1575471496/me2_gdicqw.jpg"
+bio = "Prof, disegnatore e padre"
+contact_form_action = "#"
+copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+description = "Il blog di Marco Miroballo alias Frattaglia Fumante"
+email = "marco.miroballo@gmail.com"
+google_analitycs_id = "Your ID"
+home = "Home"
+layout = "1"
+logo = ""
+mobile = ""
+preloader = true
+search = true
+[params.cookies]
+enable = true
+expire_days = 2
+[params.instafeed]
+access_token = "e8a758ffc05e49a73c0ba3b314d4fd7c"
+enable = false
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/headroom/headroom.js"
+[[params.plugins.js]]
+link = "plugins/instafeed/instafeed.min.js"
+[[params.plugins.js]]
+link = "plugins/masonry/masonry.js"
+[[params.plugins.js]]
+link = "plugins/reading-time/readingTime.min.js"
+[[params.plugins.js]]
+link = "plugins/smooth-scroll/smooth-scroll.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.social]]
+icon = "ti-facebook"
+url = "#"
+[[params.social]]
+icon = "ti-twitter-alt"
+url = "#"
+[[params.social]]
+icon = "ti-linkedin"
+url = "#"
+[[params.social]]
+icon = "ti-github"
+url = "#"
